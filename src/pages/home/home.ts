@@ -8,7 +8,7 @@ import { BarcodeScanner } from '@ionic-native/barcode-scanner';
   templateUrl: 'home.html'
 })
 export class HomePage {
-
+ //modificado con emailcomposer
   constructor(public navCtrl: NavController,
               private plataforma: Platform,
               private histProvider: HistorialProvider,
